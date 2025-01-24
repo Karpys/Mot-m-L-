@@ -1,0 +1,3 @@
+[submodule "MotMélé/Assets/Scripts/KarpysUtils"]
+	path = MotMélé/Assets/Scripts/KarpysUtils
+	url = https://github.com/Karpys/KarpysUtils.git
